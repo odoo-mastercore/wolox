@@ -12,3 +12,8 @@
 	path = odoo-mastercore/l10n_cl
 	url = git@github.com:odoo-mastercore/l10n_cl.git
 	branch = 12.0
+
+[submodule "OCA/queue"]
+	path = OCA/queue
+	url = git@github.com:OCA/queue.git
+	branch = 12.0
