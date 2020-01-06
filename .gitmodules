@@ -2,3 +2,8 @@
 	path = odoo-mastercore/l10n_ar
 	url = git@github.com:odoo-mastercore/l10n_ar.git
 	branch = 12.0
+
+[submodule "odoo-mastercore/wolox_addons"]
+	path = odoo-mastercore/wolox_addons
+	url = git@github.com:odoo-mastercore/wolox_addons.git
+	branch = 12.0
